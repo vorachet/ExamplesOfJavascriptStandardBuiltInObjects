@@ -1,6 +1,6 @@
-# I Was Not Close To Being The Best JS Deveveloper On MyTeam
+# Simple programming problems
 
-Simple programming problems
+Collection of simple programming problems that can be your exercise. It may help you step close to being the one of good JS developers on your team
 
 ## Staircase
 
