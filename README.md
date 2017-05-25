@@ -1,6 +1,6 @@
 # Simple programming problems
 
-Collection of simple programming problems that can be your exercise. It may help you step close to being the one of good JS developers on your team
+Collection of simple programming problems that can be your exercise. 
 
 ## Staircase
 
