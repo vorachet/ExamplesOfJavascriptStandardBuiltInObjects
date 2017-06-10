@@ -1,0 +1,39 @@
+
+List of ordered items by companyName
+
+	Company1: 
+		001 Company1 CustomerAddress1 Product1, 
+		004 Company1 CustomerAddress3 Prodcut3, 
+		005 Company1 CustomerAddress4 Product4, 
+		008 Company1 CustomerAddress2 Product4
+	Company2: 
+		002 Company2 CustomerAddress2 Product1, 
+		007 Company2 CustomerAddress5 Prodcut6
+	Company3: 
+		003 Company3 CustomerAddress1 Prodcut2, 
+		006 Company3 CustomerAddress2 Product5
+
+List of ordered items by customerAddress
+
+	CustomerAddress1: 
+		001 Company1 CustomerAddress1 Product1, 
+		003 Company3 CustomerAddress1 Prodcut2
+	CustomerAddress2: 
+		002 Company2 CustomerAddress2 Product1, 
+		006 Company3 CustomerAddress2 Product5, 
+		008 Company1 CustomerAddress2 Product4
+	CustomerAddress3: 
+		004 Company1 CustomerAddress3 Prodcut3
+	CustomerAddress4: 
+		005 Company1 CustomerAddress4 Product4
+	CustomerAddress5: 
+		007 Company2 CustomerAddress5 Prodcut6
+
+Num of ordered items group by product
+
+	2x Product1
+	2x Product4
+	1x Prodcut2
+	1x Prodcut3
+	1x Product5
+	1x Prodcut6

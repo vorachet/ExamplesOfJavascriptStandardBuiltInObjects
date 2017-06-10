@@ -1,0 +1,14 @@
+{
+  "name": "analyzer",
+  "version": "1.0.0",
+  "description": "simplified order analysis tool",
+  "main": "analyzer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "analyzer": "./analyzer.js"
+  },
+  "author": "Vorachet Jaroensawas",
+  "license": "ISC"
+}
