@@ -1,6 +1,12 @@
-# Javascript Homework for your student
+# Examples of Javascript Standard Built-In Objects
 
-## Staircase
+Vorachet Jaroensawas
+vorachet@gmail.com
+
+## 1. Staircase
+
+Staircase can be done using String.prototype.repeat()
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/repeat
 
 ```
 
@@ -54,11 +60,21 @@ output:
 ```
 
 
-## Simple tuple data analytics
+## 2. Simple tuple data analytics
 
-input
+Here is good exmaple to learn
 
-sample.txt
+Array.prototype.map()
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/map?v=control
+
+Array.prototype.reduce()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce?v=control
+
+Array.prototype.filter()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter?v=control
+
+
+input (sample.txt)
 ```
 001, Company1, CustomerAddress1, Product1
 002, Company2, CustomerAddress2, Product1
